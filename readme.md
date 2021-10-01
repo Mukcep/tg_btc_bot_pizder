@@ -11,4 +11,4 @@ python3 -m venv env
 
 $ (env) [b]pip install -r requirements.txt[/b]
 
-После этого отредачить app.py заполнив api_id, api_hash и никнейм бота
+После этого отредачить app.py заполнив api_id, api_hash и никнеймы ботов
