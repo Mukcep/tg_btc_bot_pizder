@@ -9,6 +9,6 @@ python3 -m venv env
 
 Далее установить зависимости:
 
-$ (env) [b]pip install -r requirements.txt[/b]
+$ (env) pip install -r requirements.txt
 
 После этого отредачить app.py заполнив api_id, api_hash и никнейм бота
