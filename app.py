@@ -1,11 +1,16 @@
 import telethon
 import re
 
+
+# >>> Заполнить
 app_api_id = ''
 app_api_hash = ''
+
+# >>> Заполнить
 tg_btc_bot_username = ''
 tg_eth_bot_username = ''
 tg_chatex_bot_username = ''
+
 client = telethon.TelegramClient('Pizder', app_api_id, app_api_hash)
 client.start()
 
